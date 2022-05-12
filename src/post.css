@@ -6,3 +6,12 @@
 .profile-container {
   display: flex;
 }
+
+button {
+  height: 30px;
+  color: white;
+  background-color: blue;
+  border: None;
+  border-radius: 5px;
+  width: 100px;
+}
